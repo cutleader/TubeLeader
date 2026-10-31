@@ -30,7 +30,9 @@ To download the latest installation packages, updates, and release notes:
 - **Product Overview**: [TubeLeader Product Details](https://cutleader.com/en/?page_id=1842)
 - **Technical Support**: [support@cutleader.com](mailto:support@cutleader.com)
 
+---
 
-## 📄 Technical Whitepaper / 技术白皮书
-* **English Version**: [Online Markdown](docs/whitepaper/TubeLeader_Whitepaper_EN.md) 
-* **中文版**: [在线文档](docs/whitepaper/TubeLeader_Whitepaper_ZH.md)
+## Technical Whitepaper / 技术白皮书
+
+- **English Version**: [Online Markdown](docs/whitepaper/TubeLeader_Whitepaper_EN.md) 
+- **中文版**: [在线文档](docs/whitepaper/TubeLeader_Whitepaper_ZH.md)
